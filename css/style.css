@@ -1,15 +1,27 @@
 body {
-	background-color: LightGray;
+	background-color:lightgray
+;
 }
-div {
-	border: 1px solid Chocolate;
-}
+
 /* Navigation Section */
-.top-navigation {
+nav.top-navigation {
 	background-color: #fff;
 }
+
 .top-navigation > .content {
-	width: 970px;
-	height: 70px;
-	margin: 0 auto;
+	height: 4.375rem;
+}
+
+.content {
+	padding:0 0.938rem;
+	margin:0 auto;
+	min-width:37.5rem;
+}
+.top-navigation .links li {
+	display: inline-block;
+	margin-left:1.563rem;
+}
+.top-navigation .links li.active {
+	color:#4c5058;
+	font-weight:500;
 }
