@@ -1,6 +1,7 @@
 body {
 	background-color:lightgray
 ;
+    
 }
 
 /* Navigation Section */
@@ -17,15 +18,16 @@ nav.top-navigation {
 	height: 4.375rem;
 }
 
-@media (min-width: 48rem)
+@media (min-width: 48rem) {
 .content {
 	width: 46rem;
 }
+}
 
 .content {
-	padding:0 0.938rem;
-	margin:0 auto;
-	min-width:37.5rem;
+	padding: 0 0.938rem;
+	margin: 0 auto;
+	min-width: 37.5rem;
 }
 .top-navigation .links li {
 	display: inline-block;
