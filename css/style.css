@@ -1,7 +1,13 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
 body {
 	background-color:lightgray
 ;
-
 }
 
 html {
@@ -43,11 +49,15 @@ nav.top-navigation {
 }
 .top-navigation .links > .active {
 	color:#4c5058;
-	font-weight:600;
+	font-weight:500;
 }
 .top-navigation .links {
 	float:right;
 	color:#838994;
 	font-size:1.04rem;
 	margin-top:1.7rem;
+}
+.top-navigation .links li:hover {
+	cursor: pointer;
+	color: #333333;
 }
