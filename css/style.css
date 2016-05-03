@@ -63,10 +63,21 @@ nav.top-navigation {
 }
 
 .introduction {
-	background-image: url(startupclone_backgroundpic.jpg);
+	background-image: url('../images/first-background.jpg');
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 45.938rem;
 	overflow: auto;
+}
+.buttons {
+	background-color: #f15a29;
+	border-color: #f15a29;
+	width: 9.688rem;
+	text-shadow: none;
+	border-style: none;
+	border-radius: 4px;
+	padding: 1rem 1.5rem;
+	color: white;
+    font-size: 1.125rem;
 }
