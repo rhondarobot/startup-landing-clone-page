@@ -70,14 +70,32 @@ nav.top-navigation {
 	height: 45.938rem;
 	overflow: auto;
 }
-.buttons {
+.button {
+	width: 9.688rem;
 	background-color: #f15a29;
 	border-color: #f15a29;
-	width: 9.688rem;
+	color: #f15a29;
 	text-shadow: none;
 	border-style: none;
 	border-radius: 4px;
 	padding: 1rem 1.5rem;
-	color: white;
     font-size: 1.125rem;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.introduction h1 {
+	margin-top: 17.5rem;
+	font-size: 3.125rem;
+	color: white;
+	text-align: center;
+	font-weight: 300;
+}
+.introduction h3 {
+	font-size: 1.125rem;
+	color: white;
+	text-align: center;
+	font-weight: 300;
 }
