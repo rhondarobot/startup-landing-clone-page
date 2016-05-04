@@ -65,7 +65,7 @@ nav.top-navigation {
 	height: 45.938rem;
 	overflow: auto;
 }
-.button {
+button {
 	width: 9.688rem;
 	background-color: #f15a29;
 	border-color: #f15a29;
@@ -73,7 +73,7 @@ nav.top-navigation {
           border-right-color: rgb(241, 90, 41);
           border-bottom-color: rgb(241, 90, 41);
           border-left-color: rgb(241, 90, 41);
-	color: #f15a29;
+	color: #FFFFFF;
 	text-shadow: none;
 	border-style: none;
 	      border-top-style: none;
