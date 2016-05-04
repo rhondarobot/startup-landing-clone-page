@@ -110,15 +110,30 @@ button {
 	font-weight: 300;
 }
 
-.cases .devices {
-    width: 33.3333333%;
-    display: inline block;
-    /* styles to assist with debugging */
-    box-sizing: border-box;
-    height: 4em;
-    margin: 0 auto;
+.cases .content li {
+    display: inline-block;
+    text-align: center;
+    width: 13rem;
+    color: #1d1e21;
 }
 
 .cases h2 {
 	text-align: center;
+	font-size: 2.75rem;
+    font-weight: 300;
+}
+
+.cases .devices h3 {
+	font-weight: 400;
+	text-align: center
+	font-size: 2.25rem;
+	margin: 2.5rem 0px 1.875rem;
+    margin-top: 2.5rem;
+    margin-right: 0px;
+    margin-bottom: 1.875rem;
+    margin-left: 0px;
+}
+
+.caption {
+	font-size: 1.125rem;
 }
