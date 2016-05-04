@@ -33,7 +33,6 @@ nav.top-navigation {
 	padding: 0 0.938rem;
 	margin: 0 auto;
 	min-width: 37.5rem;
-	text-align: center;
 }
 .top-navigation .links li {
 	display: inline-block;
@@ -92,7 +91,7 @@ button {
     text-align: center;
     cursor: default;
     box-sizing: border-box;
-    display: inline-block;
+    display: block;
     margin: 0 auto;
 }
 .introduction h1 {
