@@ -5,11 +5,6 @@ html {
 	box-sizing: inherit;
 }
 
-body {
-	background-color:lightgray
-;
-}
-
 html {
 	-webkit-font-smoothing: antialiased;
 }
@@ -74,11 +69,23 @@ nav.top-navigation {
 	width: 9.688rem;
 	background-color: #f15a29;
 	border-color: #f15a29;
+	      border-top-color: rgb(241, 90, 41);
+          border-right-color: rgb(241, 90, 41);
+          border-bottom-color: rgb(241, 90, 41);
+          border-left-color: rgb(241, 90, 41);
 	color: #f15a29;
 	text-shadow: none;
 	border-style: none;
+	      border-top-style: none;
+          border-right-style: none;
+          border-bottom-style: none;
+          border-left-style: none;
 	border-radius: 4px;
 	padding: 1rem 1.5rem;
+	      padding-top: 1rem;
+          padding-right: 1.5rem;
+          padding-bottom: 1rem;
+          padding-left: 1.5rem;
     font-size: 1.125rem;
     align-items: flex-start;
     text-align: center;
