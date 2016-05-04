@@ -92,6 +92,7 @@ nav.top-navigation {
     cursor: default;
     box-sizing: border-box;
     display: inline-block;
+    margin: 0 auto;
 }
 .introduction h1 {
 	margin-top: 17.5rem;
@@ -114,4 +115,5 @@ nav.top-navigation {
     border: 1px solid black;
     box-sizing: border-box;
     height: 4em;
+    margin: 0 auto;
 }
