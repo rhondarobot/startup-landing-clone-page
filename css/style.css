@@ -143,6 +143,15 @@ button {
 	border-top: 1px solid #eaebec;
 	margin: 1.313rem 0;
 }
-.social .icons {
+.social {
+	text-align: center;
+}
+.icons li {
 	display: inline-block;
+	width: 2rem;
+}
+.icons {
+	width: 100%;
+    margin: auto;
+    text-align: center;
 }
