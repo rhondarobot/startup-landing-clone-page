@@ -37,7 +37,7 @@ nav.top-navigation {
 .top-navigation .links li {
 	display: inline-block;
 	margin-left: 1.563rem;
-	font-family: 'Roboto', sans-serif
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #838994;
 	letter-spacing: 0.03em;
@@ -125,7 +125,7 @@ button {
 
 .cases .devices h3 {
 	font-weight: 400;
-	text-align: center
+	text-align: center;
 	font-size: 2.25rem;
 	margin: 2.5rem 0px 1.875rem;
     margin-top: 2.5rem;
@@ -153,5 +153,7 @@ button {
 .icons {
 	width: 100%;
     margin: auto;
+    padding: 0;
     text-align: center;
 }
+
