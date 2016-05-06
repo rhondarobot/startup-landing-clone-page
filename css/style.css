@@ -170,7 +170,7 @@ button {
 	color: #3f729b;
 }
 .social .icons > li {
-	    border-radius: 1.25rem;
+	border-radius: 1.25rem;
     width: 2.5rem;
     height: 2.5rem;
     display: inline-block;
@@ -178,4 +178,7 @@ button {
     border: 1px solid #eaebec;
     padding: 0.625rem 0;
     text-align: center;
+}
+.circle {
+	color: #FFFFFF;
 }
