@@ -156,4 +156,26 @@ button {
     padding: 0;
     text-align: center;
 }
-
+.twitter {
+	color: #55acee;
+}
+.social h5 {
+	font-size: 1rem;
+	font-weight: 400;
+}
+.facebook {
+	color: #4c66a4;
+}
+.instagram {
+	color: #3f729b;
+}
+.social .icons > li {
+	    border-radius: 1.25rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: inline-block;
+    margin: 1.25rem 5px;
+    border: 1px solid #eaebec;
+    padding: 0.625rem 0;
+    text-align: center;
+}
