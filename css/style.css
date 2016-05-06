@@ -179,5 +179,10 @@ button {
     border: 1px solid #eaebec;
     padding: 0.625rem 0;
     text-align: center;
+    margin-bottom: 0rem;
 }
-
+.copy h5 {
+	font-size: 0.9rem;
+	font-weight: 200;
+	color: #838994;
+}
